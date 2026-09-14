@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm emerynet169 👋
 
-<!--
-**emerynet169/emerynet169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Seattle, WA.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+Flutter, Dart, React Native, TypeScript, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on mobile UI/UX, fluid animations, offline-first apps
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@emerynet169](https://github.com/emerynet169) on GitHub
